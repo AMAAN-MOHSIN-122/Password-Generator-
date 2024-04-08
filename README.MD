@@ -16,7 +16,6 @@ To use the Random Password Generator:
 1. Open the `index.html` file in a web browser.
 2. Adjust the desired password length and select the character types you want to include.
 3. Click the "Generate Password" button to generate a random password.
-4. Optionally, click the "Copy" button to copy the generated password to the clipboard.
 
 ## How It Works
 
